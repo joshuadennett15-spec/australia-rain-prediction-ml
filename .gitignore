@@ -1,0 +1,7 @@
+# Environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Kaggle download; large and re-downloadable, never commit it
+data.raw/
